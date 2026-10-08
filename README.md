@@ -1,2 +1,2 @@
-# sheet-music-app
-Sheet music app that splits an audio tune into instruments and generates sheet music
+This project splits music into instrument stems and transcribes each stem
+Made by a musician for musicians
